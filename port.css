@@ -42,6 +42,8 @@
 
 .name{
     display:flex;
+
+    
     justify-content:baseline;
     align-items:center;
 }
